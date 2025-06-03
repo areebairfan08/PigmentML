@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pigmentai/
+
 
 # Spyder project settings
 .spyderproject
