@@ -1,0 +1,28 @@
+# Core ML stack
+torch
+torchvision
+scikit-learn
+
+# Data manipulation
+numpy
+pandas
+
+# Colour Science 
+colormath
+colorspacious
+
+# Visulization
+matplotlib
+seaborn
+
+# Notebook environment
+notebook
+jupyterlab
+ipykernel
+
+# Image processing (for color sampling)
+opencv-python
+Pillow
+
+# Optional: for logging or debugging
+tensorboard

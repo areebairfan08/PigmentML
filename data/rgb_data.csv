@@ -1,10 +1,2 @@
-Pigment Name,R,G,B
-Cadmium Red,222,19,22
-Cadmium Yellow Medium Hue,245,198,0
-Ultramarine Blue,36,24,140
-Medium Magenta,190,67,152
-Primary Yellow,243,210,20
-Phthalocyanine Blue,20,43,83
-Burnt Umber,60,33,21
-Mars Black,0,0,0
-Titanium White,255,255,255
+name,r,g,b,cadmium_red_medium_hue,medium_magenta,cadmium_yellow_medium_hue,primary_yellow,ultramarine_blue,phthalocyanine_blue,burnt_umber,mars_black,titanium_white,
+cadmium_red_medium_hue,223,58,61,1,0,0,0,0,0,0,0,0
