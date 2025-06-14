@@ -65,4 +65,6 @@ So, let's break down the palette used for this project:
 | Phthalocyanine Blue      | Opaque       |
 | Burnt Umber             | Opaque       |
 | Mars Black               | Opaque       |
+
+
 **Note:** Phthalocyanine Blue’s strength means that even small amounts can overwhelm other pigments. This effect will be evident in later mixing results.
