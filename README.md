@@ -23,3 +23,14 @@ To control these properties, we need more than just the primary colours. This is
 - White: Used to increase value, making colours lighter and allowing us to mix tints
 - Black: Used to decrease value, making colours darker, helping to create shades and deep shadows
 - Brown: Adds warmth and realism to mixes, especially skin tones, wood, and earth tones. It helps tone down overly saturated colours without turning them grey like black might.
+
+So, let's break down the palette used for this project:
+1. Cadmium Red Medium Hue: This is our **Warm Red**. It leans slightly orange and is great for strong earthy mixes and is essential for mixing vibrant oranges and warm browns. 
+2. Medium Magenta: This is our **Cool Red**. When mixed with a true primary blue, it's crucial for mixing clean, vibrant purples. Without a cool red like magenta, purples usually end up looking dull or brownish.
+3. Cadmium Yellow Medium HUe: This is our **Warm Yellow**. It's great for bright greens when mixed with blue, and fiery oranges with warm reds.
+4. Primary Yellow: This is our **Cool Yellow**. This yellow leans slightly green. When mixed with a cool blue, it helps you get brilliant, clear greens that aren't muddy or olive-toned. This broadens our green range.
+5. Ultramarine Blue: This is our **Warm Blue**. This is a rich, slightly purple-leaning blue. It's fantastic for deep, moody purples when mixed with red/magenta, and subdued greens.
+6. Phthalocyanine Blue: This is our **Cool Blue**. This blue is  very intense and leans towards green. It's our true primary blue/cyan. When mixed with a cool yellow, it's essential for making those bright, vibrant electric greens.
+7. Burnt Umber: This is our **Brown**. This is an earthy, warm brown that's great for desaturating colors, creating natural shadows, or mixing custom browns.
+8. Mars Black: This is our **Black**. Compared to other black paints, this is neutral and doesn’t shift colours too much when mixed.
+9. Titanium White: This is our **White**. It is extremely opaque, meaning it covers and lightens colours quickly. It has strong tinting power, which is imporant as discussed earlier. 
