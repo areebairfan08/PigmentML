@@ -9,3 +9,7 @@ PigmentML is a machine learning-based system that predicts optimal paint mixing 
 The whole idea behind this project is to teach a computer how to mix paints. But for that to happen, it first needs to see a bunch of real-world examples of what happens when different paints are mixed (This process is called supervised learning — where the model is trained on input–output pairs (paint mix → resulting color) so that it can later predict mixes for new target colors). 
 
 ### Choosing the "perfect" palette 
+
+Traditionally, your primary colours are red, yellow, and blue, and in theory, you should be able to mix most colours from just these three paints. But in reality, this is not the case, you will find that some colours you mix are very muddy and not the vibrant colours you were looking for. To mix as many colours as possible, we will have to expand our palette a bit. 
+
+#### Warm and Cool Colours
