@@ -1,7 +1,7 @@
 # PigmentML
 PigmentML is a machine learning-based system that predicts optimal paint mixing ratios to match any target color using a fixed set of base pigments. Instead of relying on traditional physics models like Kubelka-Munk, this project uses data-driven learning to map pigment combinations to their resulting colors.
 
-However, achieving this data-driven learning presents unique challenges. Simple linear RGB averaging doesn't accurately capture how paints mix, and creating a large, comprehensive physical dataset is impractical. Therefore, the most effective approach is to combine a small,  high-quality real dataset with a larger, calibrated synthetic dataset.
+
 
 ## Project Phases (Progress So Far)
 
