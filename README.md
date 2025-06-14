@@ -54,15 +54,15 @@ So, let's break down the palette used for this project:
 #### Pigment Opacity and Mixing Influence
 - Different paints have different levels of opacity (based on brands), which can affect how strongly they influence colour mixes.
 - The following is for Liquitex Basics: 
-| Pigment | Opacity |
-| ------------- | ------------- |
-| Cadmium Red Medium Hue | Semi-opaque  |
-| Medium Magenta | Semi-opaque  |
-| Cadmium Yellow Medium Hue | Semi-opaque  |
-| Primary Yellow | Semi-opaque  |
-| Ultramarine Blue | Semi-opaque  |
-| Phthalocyanine Blue | Opaque  |
-| Burnt Umber | Opaque |
-| Mars Black | Opaque  |
 
+| Pigment                  | Opacity      |
+|--------------------------|--------------|
+| Cadmium Red Medium Hue   | Semi-opaque  |
+| Medium Magenta           | Semi-opaque  |
+| Cadmium Yellow Medium Hue| Semi-opaque  |
+| Primary Yellow           | Semi-opaque  |
+| Ultramarine Blue         | Semi-opaque  |
+| Phthalocyanine Blue      | Opaque       |
+| Burnt Umber             | Opaque       |
+| Mars Black               | Opaque       |
 **Note:** Phthalocyanine Blue’s strength means that even small amounts can overwhelm other pigments. This effect will be evident in later mixing results.
