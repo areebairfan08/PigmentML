@@ -5,7 +5,7 @@ However, achieving this data-driven learning presents unique challenges. Simple 
 
 ## Project Phases (Progress So Far)
 
-1.  **Small, High-Quality Real Dataset (Calibration Data):** Collecting physical paint swatches and accurately measuring their RGB values to form the "ground truth" for how our specific paints behave. *(Current status: Dataset collected, initial analysis performed, ready for preprocessing.)*
+1.  **Small, High-Quality Real Dataset (Calibration Data):** Collecting physical paint swatches and accurately measuring their RGB values to formaulate how the specific paints behave. *(Current status: Dataset collected, initial analysis performed, ready for preprocessing.)*
 2.  **Forward Mixing Model:** Training a machine learning model (e.g., a neural network) on the real calibration data to learn how given pigment ratios result in a specific RGB color.
 3.  **Calibrated Synthetic Dataset Generation:** Using the trained forward model to generate a much larger dataset of pigment mixes and their predicted RGB values. This will greatly expand the range of colors the AI can learn from.
 4.  **Inverse Mixing Model:** Training a second model on the synthetic dataset to perform the core task: taking a target RGB color and predicting the pigment ratios needed to achieve it.
