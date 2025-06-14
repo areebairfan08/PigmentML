@@ -38,7 +38,7 @@ So, let's break down the palette used for this project:
 ### Some Notes on the paints
 ####  Paint Brand Used
 - Liquitex BASICS acrylic paints were used for this project.
-- Other brands can definitly be used, but results may vary due to differences in:
+- Other brands can definitely be used, but results may vary due to differences in:
   - Pigment concentration
   - Opacity
   - Hue accuracy
@@ -77,7 +77,7 @@ Mixing isn't just about randomly swirling paints together. A systematic approach
 - **Pure Pigment Swatches:** Starting with individual pigments at 100% concentration. This provides the AI with the baseline color for each component
 - **Binary Mixes:** Combining two pigments in various ratios (e.g., 50/50, 75/25, 25/75). This is crucial for understanding how each pair interacts directly.
 - **Tertiary Mixes:** Combining three pigments. These are more complex but vital for capturing how colors behave in multi-pigment scenarios
-- **Mixes with Neutrals:** Incorporating Titanium White to create lighter tints, Marks Black for darker shades, and Burnt Umber to explore earthy tones and desaturated versions of other colors. This expands the dataset beyond just pure hues to include a wide range of values and saturations.
+- **Mixes with Neutrals:** Incorporating Titanium White to create lighter tints, MarsBlack for darker shades, and Burnt Umber to explore earthy tones and desaturated versions of other colors. This expands the dataset beyond just pure hues to include a wide range of values and saturations.
 
 Once a mix was prepared, it was applied to a consistent surface to form a physical swatch. This consistency (same type of paper or cardstock for all swatches) helps eliminate variables that could affect the final measured color. After application, it was critical to allow each swatch to dry completely. Wet paint often looks lighter than when it is dried down. 
 
