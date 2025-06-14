@@ -34,3 +34,35 @@ So, let's break down the palette used for this project:
 8. **Burnt Umber**: This is our _**Brown**_. This is an earthy, warm brown that's great for desaturating colors, creating natural shadows, or mixing custom browns.
 9. **Mars Black**: This is our _**Black**_. Compared to other black paints, this is neutral and doesn’t shift colours too much when mixed.
 10. **Titanium White**: This is our _**White**_. It is extremely opaque, meaning it covers and lightens colours quickly. It has strong tinting power, which is imporant as discussed earlier. 
+
+### Some Notes on the paints
+####  Paint Brand Used
+- Liquitex BASICS acrylic paints were used for this project.
+- Other brands can definitly be used, but results may vary due to differences in:
+  - Pigment concentration
+  - Opacity
+  - Hue accuracy
+    
+#### Medium Magenta vs. Quinacridone Rose
+- Medium Magenta was used instead of Quinacridone Rose based on availability.
+- Quinacridone Rose is often preferred by artists for its:
+  - Higher transparency
+  - Slightly cooler tone
+  - Better mixing potential for clean purples
+- However, Medium Magenta is sufficient for this project and still allows for a wide range of hues.
+
+#### Pigment Opacity and Mixing Influence
+- Different paints have different levels of opacity (based on brands), which can affect how strongly they influence colour mixes.
+- The following is for Liquitex Basics: 
+| Pigment | Opacity |
+| ------------- | ------------- |
+| Cadmium Red Medium Hue | Semi-opaque  |
+| Medium Magenta | Semi-opaque  |
+| Cadmium Yellow Medium Hue | Semi-opaque  |
+| Primary Yellow | Semi-opaque  |
+| Ultramarine Blue | Semi-opaque  |
+| Phthalocyanine Blue | Opaque  |
+| Burnt Umber | Opaque |
+| Mars Black | Opaque  |
+
+**Note:** Phthalocyanine Blue’s strength means that even small amounts can overwhelm other pigments. This effect will be evident in later mixing results.
