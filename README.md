@@ -53,7 +53,7 @@ So, let's break down the palette used for this project:
 
 #### Pigment Opacity and Mixing Influence
 - Different paints have different levels of opacity (based on brands), which can affect how strongly they influence colour mixes.
-- The following is for Liquitex Basics: 
+- The following is for Liquitex BASICS Acrylics: 
 
 | Pigment                  | Opacity      |
 |--------------------------|--------------|
@@ -68,3 +68,27 @@ So, let's break down the palette used for this project:
 
 
 **Note:** Phthalocyanine Blue’s strength means that even small amounts can overwhelm other pigments. This effect will be evident in later mixing results.
+
+### Mixing Colors and Collecting the Data
+With the palette chosen, the next step is mixing the paints. The goal here was to create ~50-100 exceptionally accurate, physically mixed, and measured paint swatches. This is the base  of the entire system, teaching it the non-linear behavior of these specific paints.
+
+#### Mixing Colours
+Mixing isn't just about randomly swirling paints together. A systematic approach was taken to ensure the dataset covered a broad and representative range of mixes. This included:
+- **Pure Pigment Swatches:** Starting with individual pigments at 100% concentration. This provides the AI with the baseline color for each component
+- **Binary Mixes:** Combining two pigments in various ratios (e.g., 50/50, 75/25, 25/75). This is crucial for understanding how each pair interacts directly.
+- **Tertiary Mixes:** Combining three pigments. These are more complex but vital for capturing how colors behave in multi-pigment scenarios
+- **Mixes with Neutrals:** Incorporating Titanium White to create lighter tints, Marks Black for darker shades, and Burnt Umber to explore earthy tones and desaturated versions of other colors. This expands the dataset beyond just pure hues to include a wide range of values and saturations.
+
+Once a mix was prepared, it was applied to a consistent surface to form a physical swatch. This consistency (same type of paper or cardstock for all swatches) helps eliminate variables that could affect the final measured color. After application, it was critical to allow each swatch to dry completely. Wet paint often looks lighter than when it is dried down. 
+
+#### Collecting the Data
+So, once the mixes were all dry, each swatch got scanned. Then, from those digital images, the exact Red, Green, and Blue numbers were picked out. The main thing was just making sure the lighting was consistent during scanning and being careful where the color was picked from on the swatch.
+
+As each swatch's mixing ratio was determined and its RGB color measured, this information was carefully recorded into the rgb_data.csv file. There is a total of 71 colour mixes 
+
+
+
+
+
+
+
