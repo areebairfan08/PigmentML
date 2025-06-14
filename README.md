@@ -13,3 +13,4 @@ The whole idea behind this project is to teach a computer how to mix paints. But
 Traditionally, your primary colours are red, yellow, and blue, and in theory, you should be able to mix most colours from just these three paints. But in reality, this is not the case, you will find that some colours you mix are very muddy and not the vibrant colours you were looking for. To mix as many colours as possible, we will have to expand our palette a bit. 
 
 #### Warm and Cool Colours
+Having both
