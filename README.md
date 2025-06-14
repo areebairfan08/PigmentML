@@ -26,20 +26,20 @@ To control these properties, we need more than just the primary colours. This is
 
 So, let's break down the palette used for this project:
 1. **Cadmium Red Medium Hue**:
-- This is our _**Warm Red**_. It leans slightly orange and is great for strong earthy mixes and is essential for mixing vibrant oranges and warm browns. 
+  - This is our _**Warm Red**_. It leans slightly orange and is great for strong earthy mixes and is essential for mixing vibrant oranges and warm browns. 
 3. **Medium Magenta**
-- This is our **Cool Red**. When mixed with a true primary blue, it's crucial for mixing clean, vibrant purples. Without a cool red like magenta, purples usually end up looking dull or brownish.
+  - This is our **Cool Red**. When mixed with a true primary blue, it's crucial for mixing clean, vibrant purples. Without a cool red like magenta, purples usually end up looking dull or brownish.
 4. **Cadmium Yellow Medium Hue**
-- This is our _**Warm Yellow**_. It's great for bright greens when mixed with blue, and fiery oranges with warm reds.
+  - This is our _**Warm Yellow**_. It's great for bright greens when mixed with blue, and fiery oranges with warm reds.
 5. **Primary Yellow**
-- This is our _**Cool Yellow**_. This yellow leans slightly green. When mixed with a cool blue, it helps you get brilliant, clear greens that aren't muddy or olive-toned. This broadens our green range.
+  - This is our _**Cool Yellow**_. This yellow leans slightly green. When mixed with a cool blue, it helps you get brilliant, clear greens that aren't muddy or olive-toned. This broadens our green range.
 6. **Ultramarine Blue**
-- This is our _**Warm Blue**_. This is a rich, slightly purple-leaning blue. It's fantastic for deep, moody purples when mixed with red/magenta, and subdued greens.
+  - This is our _**Warm Blue**_. This is a rich, slightly purple-leaning blue. It's fantastic for deep, moody purples when mixed with red/magenta, and subdued greens.
 7. **Phthalocyanine Blue**
-- This is our _**Cool Blue**_. This blue is  very intense and leans towards green. It's our true primary blue/cyan. When mixed with a cool yellow, it's essential for making those bright, vibrant electric greens.
+  - This is our _**Cool Blue**_. This blue is  very intense and leans towards green. It's our true primary blue/cyan. When mixed with a cool yellow, it's essential for making those bright, vibrant electric greens.
 8. **Burnt Umber**
-- This is our _**Brown**_. This is an earthy, warm brown that's great for desaturating colors, creating natural shadows, or mixing custom browns.
+  - This is our _**Brown**_. This is an earthy, warm brown that's great for desaturating colors, creating natural shadows, or mixing custom browns.
 9. **Mars Black**
-- This is our _**Black**_. Compared to other black paints, this is neutral and doesn’t shift colours too much when mixed.
+  - This is our _**Black**_. Compared to other black paints, this is neutral and doesn’t shift colours too much when mixed.
 10. **Titanium White**
-- This is our _**White**_. It is extremely opaque, meaning it covers and lightens colours quickly. It has strong tinting power, which is imporant as discussed earlier. 
+  - This is our _**White**_. It is extremely opaque, meaning it covers and lightens colours quickly. It has strong tinting power, which is imporant as discussed earlier. 
