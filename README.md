@@ -86,6 +86,9 @@ So, once the mixes were all dry, each swatch got scanned. Then, from those digit
 
 As each swatch's mixing ratio was determined and its RGB color measured, this information was carefully recorded into the rgb_data.csv file. There is a total of 71 colour mixes 
 
+## Phase 2: Training a "Forward Mixing Model"
+### Goal: Develop a model that can predict the RGB output of any given pigment ratio by learning from the real examples, creating a synthetic dataset
+
 
 
 
